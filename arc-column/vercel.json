@@ -1,0 +1,1 @@
+{ "rewrites": [{ "source": "/column.png", "destination": "/api/column" }, { "source": "/column.svg", "destination": "/api/column" }] }
